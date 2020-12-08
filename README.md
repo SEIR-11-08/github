@@ -9,8 +9,8 @@
 | Describe what a Version Control System is |
 | Describe the difference between Git and GitHub |
 | Distinguish between local and remote repositories |
-| Fork & clone the class repo to a computer |
-| Use basic git commands to save work to the fork of the class repo | 
+| Fork & clone repos to your computer |
+| Use basic git commands to save work to the fork of a repo | 
 
 ## What is version control, and why should you care?
 
