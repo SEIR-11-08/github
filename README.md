@@ -54,21 +54,12 @@ $ git commit -m "Add amazing work..."
 
 ## Fork & Clone the Daily Code Challenges Repo
 
-Let's practice forking, cloning and saving work to a repo by setting up and completing today's Daily JS Code Challenge!
+Let's now get some practice with how we will be submitting our deliverable assignments.
 
-1. First, browse [here](https://github.com/SEIR-7-06/daily-js-code-challenges).
-2. Now let's follow the instructions and set up the repo.
-3. Move to the `daily-code-challenges` directory.
-4. Open in VS Code:  `$ code .`
-5. Edit the `challenges.js` file to solve the `01-addOne` challenge.
-6. Be sure you have saved the changes in your code editor (`command-s` will do the trick).
-7. Now let's commit the changes:
-	- `$ git add -A`
-	- `$ git commit -m "Solve 01-addOne code challenge`  - saves the changes to the local repo
-	- `$ git push origin master` - saves the commit to the remote GHE repo (your fork)
-8. Now's the time to provide your instructors with the link to your `daily-code-challenges` repo - please respond the to slack message with the URL in your address bar. Note that this only has to be done once.
+This guide will walk you through the steps of forking, cloning, and making a pull request to submit your work.
+https://github.com/SEIR-7-06/deliverable-submissions
 
-Congrats on solving the first daily code challenge, saving your changes to the local repo and pushing it to the cloud!
+We'll use the Daily Js Code Challenges repo to practice the deliverable submission process. Go ahead and follow the above guide to make a pull request for the [Daily JS Code Challenge repo](https://github.com/SEIR-7-06/daily-js-code-challenges).
 
 ## Summary of Common Git Commands
 
