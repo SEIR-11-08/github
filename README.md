@@ -59,6 +59,9 @@ Let's now get some practice with how we will be submitting our deliverable assig
 This guide will walk you through the steps of forking, cloning, and making a pull request to submit your work.
 https://github.com/SEIR-11-08/deliverable-submissions
 
+Go ahead get some practice by Forking & Cloning the Daily JS Challenges repo! [Daily JS Challenges](https://github.com/SEIR-11-08/daily-js-code-challenges).
+
+## Pull Request Practice
 We'll use this pull request practice repo to practice the deliverable submission process. Go ahead and follow the above guide to make a pull request for the [Pull Request Practice Repo](https://github.com/SEIR-11-08/git-pull-request-practice).
 
 ## Summary of Common Git Commands
@@ -87,6 +90,3 @@ This following diagrams the flow of making changes to a repo:
 This is the basic git/GH workflow.  Things get a bit more complex when you start sharing code and manage larger codebases.
 
 > IMPORTANT: Do not create a repo within an existing repo!  If you find your computer very sluggish, it might be because you have "nested" repos. It's not uncommon for students to accidentally make their home folder (`~`) a repo - so start there if you suspect something is wrong.
-
-
-
