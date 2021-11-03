@@ -23,7 +23,7 @@ More specifically, a VCS allows you to:
 - Revert files back to a previous state
 - Review changes made over time
 - Collaborate on a set of files with others
-- Create separate "branches" of the codebase to develop new features on without impacting the "master", or production, branch.
+- Create separate "branches" of the codebase to develop new features on without impacting the "main", or production, branch.
 
 In SEI, we'll be using the world's most popular version control system - [git](https://git-scm.com/).
 
@@ -43,7 +43,7 @@ In summary:
 
 ## Saving Your Work on Exercises, Labs, etc.
 
-You will want to save work that you've completed during code alongs, labs, etc.
+You will want to save work that you've completed during code-alongs, labs, etc.
 
 In fact, you may not be able to pull changes added to the class repo by your instructors until you save your work/changes by committing them like we saw earlier:
 
@@ -57,9 +57,9 @@ $ git commit -m "Add amazing work..."
 Let's now get some practice with how we will be submitting our deliverable assignments.
 
 This guide will walk you through the steps of forking, cloning, and making a pull request to submit your work.
-https://github.com/SEIR-7-06/deliverable-submissions
+https://github.com/SEIR-11-08/deliverable-submissions
 
-We'll use the Daily Js Code Challenges repo to practice the deliverable submission process. Go ahead and follow the above guide to make a pull request for the [Daily JS Code Challenge repo](https://github.com/SEIR-7-06/daily-js-code-challenges).
+We'll use this pull request practice repo to practice the deliverable submission process. Go ahead and follow the above guide to make a pull request for the [Pull Request Practice Repo](https://github.com/SEIR-11-08/git-pull-request-practice).
 
 ## Summary of Common Git Commands
 
@@ -69,7 +69,7 @@ In SEI, you'll get plenty of practice using git, especially during project week 
 
 > IMPORTANT: At some point, you will lose access to the class repo that's hosted on GA's GitHub Enterprise account. Not to worry.  You will of course have all of the materials and your work stored locally. Additionally, at the end of the cohort, you can simply add a new remote that links a repo on your personal GitHub account and push to it - that remote repo will then contain all materials and commits for your labs, practice exercises, code challenges, etc.
 
-For your convenience, there is a git command cheatsheet located in the `resources` section of the class repo. However the following summary of commands will "git" you far:
+This following summary of commands will "git" you far:
 
 | Command | Purpose |
 |---------------------------------|---|
@@ -78,7 +78,7 @@ For your convenience, there is a git command cheatsheet located in the `resource
 | `git add -A`| Adds all changes within the repo to the staging are for next commit. |
 | `git commit -m "<message>"`| Commits all staged changes to the local repo. The message should be in worded such that it describes what the commit **does**, not what it **did**. For example, "Style nav bar" instead of "Styled nav bar".|
 | `git remote add origin <git-url>` | Connects your local repo to a repo you've created in Github. This will add a remote called origin that you can push your code to with the next command. |
-| `git push origin <branch-name>` | Pushes code in your local repo to your origin romote. Often your main branch will be called master or main. |
+| `git push origin <branch-name>` | Pushes code in your local repo to your origin remote. Often your main branch will be called master or main. |
 
 This following diagrams the flow of making changes to a repo:
  
